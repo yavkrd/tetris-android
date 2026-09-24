@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Tetris" parent="Theme.MaterialComponents.DayNight.NoActionBar"></style>
+</resources>
